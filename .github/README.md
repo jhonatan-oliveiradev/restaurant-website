@@ -4,8 +4,8 @@
 </div>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-    <img src="../assets/images/preview.png" alt="Preview">
+    <img src="../assets/images/movil-app.png" alt="Preview">
 </p>
 
 <p align="center">
@@ -32,6 +32,15 @@
 ## 📄 Descrição:
 
 Este é um website para um restaurante totalmente responsivo e desenvolvido pensando no conceito de <em>"mobile first"</em>. Toda a estrutura do código foi escrita pensando nas <strong>Boas Práticas de Programação</strong>, em caso de uma futura manutenção ou necessidade de reutilização do código.
+
+## ⚠️⚠️⚠️ Projeto não finalizado. ⚠️⚠️⚠️<br />
+
+Próximos passos:
+
+        - adicionar media queries para responsividade em desktops;
+        - adicionar tema escuro;
+        - configurar animações com a biblioteca JavaScript chamada ScrollReveal;
+        - refatorar e melhorar o código o quanto for possível.
 
 ## 🚀 Tecnologias:
 
@@ -49,7 +58,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚧 Projeto:
 
-### [Confira aqui!](https://restaurant-website-green.vercel.app/)
+### Em construção. [Confira aqui!](https://restaurant-website-green.vercel.app/)
 
 ## 🎨 Inspiração:
 
@@ -59,4 +68,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 <hr>
 
-Made by Jhonatan Oliveira.
+<p align="center">Made by Jhonatan Oliveira.</p>
